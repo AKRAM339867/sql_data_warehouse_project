@@ -1,0 +1,35 @@
+# OS Junk Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# SQL Server Files & Backups
+*.mdf
+*.ldf
+*.ndf
+*.bak
+*.log
+*.tmp
+
+# Environment & Secrets
+.env
+*.pem
+*.key
+config.local.json
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Python/Virtual Environment (if used for analytics)
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Large Files & Data Exports
+*.zip
+*.tar.gz
+*.xlsx
