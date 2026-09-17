@@ -69,7 +69,7 @@ This repository showcases the complete data engineering and analysis lifecycle:
   * 📦 **Product Performance**: Revenue drivers, category performance, and item velocity.
   * 📈 **Sales Trends**: Time-series performance, sales growth, and revenue tracking.
 
-> For full technical requirements, refer to [`docs/requirements.md`](docs/requirements.md).
+
 
 ---
 
