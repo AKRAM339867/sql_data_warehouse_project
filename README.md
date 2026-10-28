@@ -81,8 +81,7 @@ data-warehouse-project/
 ├── 📁 datasets/                   # Raw ERP and CRM source files (CSV format)
 │
 ├── 📁 docs/                       # Project documentation & visual architecture
-│   ├── etl.drawio                 # ETL pipeline design & processing logic
-│   ├── data_architecture.drawio   # Medallion architecture diagram
+│   ├── data_architecture   # Medallion architecture diagram
 │   ├── data_flow.drawio           # End-to-end data flow visualization
 │   ├── data_models.drawio         # Star Schema ERD diagrams
 │   ├── data_catalog.md            # Data dictionary, column definitions & metadata
@@ -97,8 +96,7 @@ data-warehouse-project/
 │
 ├── 📄 .gitignore                  # Git exclusions
 ├── 📄 LICENSE                     # Project license
-├── 📄 README.md                    # Project landing page
-└── 📄 requirements.txt            # Dependencies and tools
+└── 📄 README.md                    # Project landing page
 
 ```
 
